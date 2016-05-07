@@ -1,7 +1,7 @@
 PATH
   remote: ../
   specs:
-    env_branch (0.0.1)
+    env_tracking_branch (0.1.0)
 
 GEM
   remote: https://rubygems.org/
@@ -11,7 +11,7 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
-  env_branch!
+  env_tracking_branch!
 
 BUNDLED WITH
-   1.10.6
+   1.12.0
